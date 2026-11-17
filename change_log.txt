@@ -1,0 +1,1 @@
+[Tue Nov 17 22:01:25 KST 2026] private.sh 권한 변경: 
